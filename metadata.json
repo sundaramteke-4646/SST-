@@ -1,0 +1,6 @@
+{
+  "name": "LexRank CLAT PG",
+  "description": "A premium dark-themed CLAT PG exam preparation application featuring interactive mock tests, real-time score tracking, performance analytics, and dynamic study modules. Developed by Sundaram Teke.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
